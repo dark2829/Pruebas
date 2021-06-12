@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="Titulo">Estatus de alúmno</string>
-    <string name="Física">Física</string>
-    <string name="Matemáticas">Matemáticas</string>
-    <string name="Españól">Españól</string>
-    <string name="Química">Química</string>
-    <string name="Programación">Programación</string>
-    <string name="btn_calcular">Calcular</string>
+    <string name="otxt_title">Operaciones con radios</string>
+    <string name="itxt_num">Ingresar:</string>
+    <string name="itxt_numd">Ingresar:</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="btn_calcular">Operacion</string>
+    <string name="otxt_salida">Resultado</string>
+
 </resources>
