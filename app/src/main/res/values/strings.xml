@@ -5,6 +5,8 @@
     <string name="itxt_numd">Ingresar:</string>
     <string name="suma">Suma</string>
     <string name="resta">Resta</string>
+    <string name="multi">Multiplicación</string>
+    <string name="divic">Divición</string>
     <string name="btn_calcular">Operacion</string>
     <string name="otxt_salida">Resultado</string>
 
