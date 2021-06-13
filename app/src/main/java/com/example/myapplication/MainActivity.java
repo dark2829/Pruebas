@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         String [] operaciones = {"Sumar", "Restar", "Multiplicar", "Dividir"};
         //crear un objeto y agregarle parametros de dondese quiere el spinner.
         //donde, tipo, nombre de vector
-        ArrayAdapter <String> arr_ope = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, operaciones);
+        ArrayAdapter <String> arr_ope = new ArrayAdapter<>(this, R.layout.spinner_item, operaciones);
         spi_1.setAdapter((arr_ope));//mostrar el spinner
     }
 
