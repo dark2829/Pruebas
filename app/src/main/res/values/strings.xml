@@ -1,4 +1,22 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="TextView">Selecciona un nombre</string>
+    <string name="titulo">Aprendamos Juntos</string>
+    <string name="otxt_title">Operaciones con radios</string>
+    <string name="itxt_num">Ingresar:</string>
+    <string name="itxt_numd">Ingresar:</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multi">*</string>
+    <string name="divic">/</string>
+    <string name="sumat">SUMAR</string>
+    <string name="restat">RESTAR</string>
+    <string name="multit">MULTIPLICAR</string>
+    <string name="divict">DIVIDIR</string>
+    <string name="btn_calcular">Operacion</string>
+    <string name="otxt_salida">Resultado</string>
+    <string name="derecos">Todos los derechos reservados 19 junio 2021</string>
+
+    <string name="numeros">Ingresar numero:</string>
+    <string name="suma_titulo">Suma</string>
+
 </resources>
